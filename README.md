@@ -1,5 +1,8 @@
 # SW-Education
 
+<img width="300" height="200" alt="스크린샷 2022-09-16 오전 12 14 56" src="https://user-images.githubusercontent.com/26247241/190441898-774d76a3-3a63-4151-aeb6-d2bb7f48d357.png"> <img width="300" height="200" alt="스크린샷 2022-09-16 오전 12 15 13" src="https://user-images.githubusercontent.com/26247241/190441926-8c4ae8b1-ae9b-4f52-b38b-eba6a8581de5.png">
+
+
 - 학습 기간 : 2016.09~12
 - 학습 대상 : 중학교 1학년
 - 이론 : 기초 컴퓨터 구성, 네트워크, C언어
