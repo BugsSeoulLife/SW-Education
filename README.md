@@ -1,4 +1,4 @@
-# SW-Education
+# Simple-Game
 
 - 실습 결과 및 과정
 
